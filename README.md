@@ -1,6 +1,7 @@
 # DTSimioRL
 Digital Twin Reinforcement Learning algorithm for Simio
 
+# How to use
 Step0 : step 0 for scenario 1<br>
 Step02 : step 0 for scenario 2<br>
 Step1 : step 1 for scenario 1<br>
@@ -17,3 +18,7 @@ step 2 calculates the Q table<br>
 step 3 returns the action of the max Q for using (testing) phase<br>
 <br>
 Corresponding Simio files are in the repository.
+
+# Team
+• [Amel Jaoua](https://tn.linkedin.com/in/amel-jaoua-21b868b)</br>
+• [Samar Masmoudi](https://tn.linkedin.com/in/samar-masmoudi-57bb61195)
