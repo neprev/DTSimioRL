@@ -19,6 +19,7 @@ step 3 returns the action of the max Q for using (testing) phase<br>
 <br>
 Corresponding Simio files are in the repository.
 
+Please run SQL create DB script on Ms SQL Server Management Studio or similar to create the database Structure allowing data exchange between Simio and the Python RL code. Connection strings need to be set up accordingly on both Python and Simio.
 # Team
 • [Amel Jaoua](https://tn.linkedin.com/in/amel-jaoua-21b868b)</br>
 • [Samar Masmoudi](https://tn.linkedin.com/in/samar-masmoudi-57bb61195)
